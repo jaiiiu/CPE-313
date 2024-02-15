@@ -12,4 +12,4 @@ Hello, I am **Jaison Martin Zapanta**, a dedicated college student pursuing a Ba
 Feel free to explore my code, experiments, and reflections on the challenges faced during this learning process. Your feedback and suggestions are highly appreciated!
 
 ## Feedback and Collaboration
-I welcome collaboration and feedback! If you have ideas, suggestions, feel free to open an issue or reach out through email [qjmzapanta1@tip.edu.ph].
+I welcome collaboration and feedback! If you have ideas, suggestions, feel free to open an issue or reach out through email [jaisonzapanta@gmail.com].
