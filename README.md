@@ -1,4 +1,4 @@
-# CPE-313 - Advanced Machine Learning and Deep Learning
+# Advanced Machine Learning and Deep Learning
 
 ## Course Description
 This course provides a broad introduction to prediction, machine learning and deep learning . This course also includes machine learning algorithms to solve clustering, regression and classification problems. The course also provides basic understanding of modern neural networks and their applications in computer vision , time series and natural language understanding. The topics also includes building blocks of neural networks  transfer learning, different network architectures, CNN and RNN.
